@@ -5,4 +5,4 @@ Projeto simples que utiliza o microcontrolador ATMEGA328P juntamente com a banca
 
 ## Alunas
 - @laurateodoro 
-- @milena?
+- @milen-07
